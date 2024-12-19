@@ -1,2 +1,2 @@
 -xdec-
--[linktree](https://lintr.ee/xdec/)-
+-[linktree](https://linktr.ee/xdec/)-
